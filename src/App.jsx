@@ -156,7 +156,7 @@ export default function App() {
       </div>
 
       <p style={{ marginTop: "20px", fontWeight: "bold" }}>
-        📦 La livraison sera faite la semaine prochaine (si  probleme)
+        📦 La livraison sera faite la semaine prochaine (si aucun probleme)
       </p>
 
       <button
