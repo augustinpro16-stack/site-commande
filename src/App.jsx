@@ -13,8 +13,8 @@ const menuData = {
   Desserts: [
     { id: 9, nom: "Tiramisu spéculoos", prix: 0 },
     { id: 10, nom: "Basboussa", prix: 0 },
-    { id: 11, nom: "Crumble pommes", prix: 2,50€ },
-    { id: 12, nom: "Crumble fruits rouges", prix: 2,50€ },
+    { id: 11, nom: "Crumble pommes", prix: 2,50 },
+    { id: 12, nom: "Crumble fruits rouges", prix: 2,50 },
   ],
 };
 
